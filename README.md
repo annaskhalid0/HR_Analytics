@@ -1,6 +1,6 @@
 <h1>HR Analytics Research Project<h1>
 
-This project focuses on exploring the field of HR analytics and understanding how data analysis techniques can be applied to HR data for valuable insights. We utilize Python, particularly leveraging Jupyter Lab with pandas and NumPy libraries for data analysis.
+<p>This project focuses on exploring the field of HR analytics and understanding how data analysis techniques can be applied to HR data for valuable insights. We utilize Python, particularly leveraging Jupyter Lab with pandas and NumPy libraries for data analysis.
 
 Overview
 Human Resources (HR) analytics is the process of collecting, analyzing, and interpreting data regarding human capital to improve workforce performance and drive organizational growth. This project aims to delve into various aspects of HR analytics, including:
